@@ -16,3 +16,5 @@
 - USB debugging enabled
 - Zenfone 2 connected
 - First Android application deployed successfully
+
+Testing Git Tracking
